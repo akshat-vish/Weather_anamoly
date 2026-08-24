@@ -1,0 +1,1 @@
+["raw_temp_c", "raw_pressure_mbar", "raw_humidity_pct", "hour", "month", "dayofweek", "raw_temp_c_roll_mean", "raw_pressure_mbar_roll_mean", "raw_humidity_pct_roll_mean", "raw_temp_c_roll_std", "raw_pressure_mbar_roll_std", "raw_humidity_pct_roll_std", "raw_temp_c_zscore", "raw_pressure_mbar_zscore", "raw_humidity_pct_zscore"]
